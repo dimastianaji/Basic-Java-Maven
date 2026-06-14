@@ -1,5 +1,5 @@
 package src.main.java;
-
+as
 public class Counter {
 
 	private int count;
